@@ -43,3 +43,9 @@ http://127.0.0.1:8000/docs
 - schemas.py → data validation
 - routers → API routes
 - database.py → database connection
+
+## Deployment
+
+The project is deployed using Railway.
+API URL: https://your-railway-link.up.railway.app
+Swagger Documentation: https://your-railway-link.up.railway.app/docs
